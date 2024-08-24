@@ -6,10 +6,7 @@ Docker を使って Rails 5.2.8.1 および Ruby 2.5.8 の新規プロジェク�
 mkdir my_rails_project
 cd my_rails_project
 
-```
-
-### 手順2: Dockerfileを作成
-```
+### 手順 2: Dockerfile を作成
 
 ### 手順 3: Gemfile と Gemfile.lock を作成
 
