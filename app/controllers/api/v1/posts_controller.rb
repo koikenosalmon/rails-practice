@@ -9,7 +9,6 @@ module Api
         puts @posts
         render json: @posts
       end
-
         def show
         render json: @post
       end
